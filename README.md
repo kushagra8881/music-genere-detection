@@ -17,4 +17,4 @@ This repository contains code for a music genre detection project. The project a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/music_genre_detection.git
+git clone https://github.com/kushagra8881/music_genre_detection.git
