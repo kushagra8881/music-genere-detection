@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Music Genre Classification</title>
+</head>
+<body>
+    <h1>Upload a WAV file to Predict Music Genre</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <label for="file">Choose a WAV file:</label>
+        <input type="file" id="file" name="file" accept=".wav" required>
+        <button type="submit">Upload and Predict</button>
+    </form>
+</body>
+</html>
